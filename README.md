@@ -8,7 +8,7 @@
   <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/mariuszsledz/" target="blank"><img align="center"
@@ -101,7 +101,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/MariuszSledz/github-readme-activity-graph"><img alt="Mariusz's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=MariuszSledz&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href=""><img alt="Mariusz's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=MariuszSledz&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 
