@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -21,7 +21,10 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="mariusz" height="30"/></a>
     </p>
- 
+    <p align="center">
+      <a href="https://www.instagram.com/mariusz.sledz.739/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="mariusz" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -55,11 +58,23 @@
   <summary>👀 I’m interested in..</summary>
   <div>
     <h2 align="center"> My Intrests 👀  </h2>
+    <p align="center">
       <br/>
-        <p align="center">
-          <a href="https://www.credly.com/badges/514c298a-6270-41ea-a7fe-3846ab14ada9/public_url">
-          <img src="https://images.credly.com/size/340x340/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="IBM Data Science Professional Certificate" /></a>
-        </p>
+      <a href="https://www.credly.com/badges/ae1f8fbe-e34d-4308-9cb0-655306bb77c2/public_url" target="blank"><img align="center"
+         src="https://images.credly.com/size/340x340/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png"
+         alt="Data Analysis with Python" height="180"/></a>
+      <a href="https://www.credly.com/badges/1e539360-1976-407f-a68c-47336e7c420d/public_url" target="blank"><img align="center"
+         src="https://images.credly.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png"
+         alt="Machine Learning with Python" height="180" /></a>
+      <a href="https://www.credly.com/badges/69460a15-897d-40df-9304-12b74d0d9bb9/public_url" target="blank"><img align="center"
+         src="https://images.credly.com/size/340x340/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png"
+         alt="Databases and SQL for Data Science" height="180"/></a>
+    </p>
+    <p align="center">
+      <a href="https://www.credly.com/badges/514c298a-6270-41ea-a7fe-3846ab14ada9/public_url" target="blank"><img align="center"
+         src="https://images.credly.com/size/340x340/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png"
+         alt="IBM Data Science Professional Certificate" height="180" width="240"/></a>
+      <br>
   </div>    
 </details>
 
